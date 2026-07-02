@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.DS_Store
+
+data/raw/enwik9
+data/raw/enwik9.zip
+data/raw/enwik9.zip.part
+data/raw/redpajama_c4_1gb.txt
+data/processed/
+data/processed_tiny/
+out/
+out_tiny/
+out_redpajama_smoke/

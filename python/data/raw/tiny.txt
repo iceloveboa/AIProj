@@ -1,0 +1,12 @@
+Attention is a way for a model to decide which previous tokens matter for the next token.
+This tiny corpus is intentionally small, but it repeats enough text to exercise the training loop.
+The model reads bytes, predicts bytes, and learns a miniature language model objective.
+Attention is a way for a model to decide which previous tokens matter for the next token.
+This tiny corpus is intentionally small, but it repeats enough text to exercise the training loop.
+The model reads bytes, predicts bytes, and learns a miniature language model objective.
+Attention is a way for a model to decide which previous tokens matter for the next token.
+This tiny corpus is intentionally small, but it repeats enough text to exercise the training loop.
+The model reads bytes, predicts bytes, and learns a miniature language model objective.
+Attention is a way for a model to decide which previous tokens matter for the next token.
+This tiny corpus is intentionally small, but it repeats enough text to exercise the training loop.
+The model reads bytes, predicts bytes, and learns a miniature language model objective.
